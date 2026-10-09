@@ -1,0 +1,10 @@
+Abstract
+Backgruound: It is well known that a large number of patients with diabetes also have dyslipidemia, which significantly increases the risk of cardiovascular disease (CVD). This study aimed to evaluate the efficacy and safety of combination drugs consisting of metformin and atorvastatin, widely used as therapeutic agents for diabetes and dyslipidemia.
+
+Methods: This randomized, double-blind, placebo-controlled, parallel-group and phase III multicenter study included adults with glycosylated hemoglobin (HbA1c) levels >7.0% and <10.0%, low-density lipoprotein cholesterol (LDL-C) >100 and <250 mg/dL. One hundred eighty-five eligible subjects were randomized to the combination group (metformin+atorvastatin), metformin group (metformin+atorvastatin placebo), and atorvastatin group (atorvastatin+metformin placebo). The primary efficacy endpoints were the percent changes in HbA1c and LDL-C levels from baseline at the end of the treatment.
+
+Results: After 16 weeks of treatment compared to baseline, HbA1c showed a significant difference of 0.94% compared to the atorvastatin group in the combination group (0.35% vs. -0.58%, respectively; P<0.0001), whereas the proportion of patients with increased HbA1c was also 62% and 15%, respectively, showing a significant difference (P<0.001). The combination group also showed a significant decrease in LDL-C levels compared to the metformin group (-55.20% vs. -7.69%, P<0.001) without previously unknown adverse drug events.
+
+Conclusion: The addition of atorvastatin to metformin improved HbA1c and LDL-C levels to a significant extent compared to metformin or atorvastatin alone in diabetes and dyslipidemia patients. This study also suggested metformin's preventive effect on the glucose-elevating potential of atorvastatin in patients with type 2 diabetes mellitus and dyslipidemia, insufficiently controlled with exercise and diet. Metformin and atorvastatin combination might be an effective treatment in reducing the CVD risk in patients with both diabetes and dyslipidemia because of its lowering effect on LDL-C and glucose.
+
+Keywords: Atorvastatin; Diabetes mellitus; Dyslipidemias; Metformin.
