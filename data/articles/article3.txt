@@ -1,0 +1,13 @@
+Introduction: This study aims to evaluate the efficacy and safety of a triple fixed-dose combination (FDC) of dapagliflozin, sitagliptin, and immediate-release metformin (DAPA + SITA + MET IR) compared to dual FDCs in patients with type 2 diabetes mellitus (T2DM).
+
+Methods: This Phase 3, randomized, open-label study included eligible patients with T2DM who were randomly assigned in a 1:1 ratio to receive either a triple FDC of DAPA + SITA + MET IR (5 + 50 + 500/1000 mg) or a dual FDC of sitagliptin and MET IR (SITA + MET IR; 50 + 500/1000 mg), administered twice daily for 16 weeks. The primary endpoint was the mean change in glycated haemoglobin (HbA1c) from baseline to Week 16.
+
+Results: The mean baseline HbA1c was ~ 9% in both arms. Adjusted mean reduction in HbA1c from baseline to Week 16 was significantly greater in triple FDC of DAPA + SITA + MET IR (- 2.08%) versus dual FDC of SITA + MET IR (- 1.38%) P < 0.0001. A significantly greater reduction in HbA1c was observed with triple FDC compared to the dual FDC at Week 12 (P < 0.0001). At Week 16, a significantly higher proportion of patients achieved HbA1c < 7% with triple FDC than with dual FDC (48.9% versus 31.1%; P = 0.0029). Both treatments were well tolerated.
+
+Conclusion: Triple FDC of DAPA + SITA + MET IR demonstrated superior efficacy in achieving glycaemic control in patients with T2DM compared to dual FDC. There were no major safety concerns.
+
+Clinical trial registration number: CTRI/2022/04/041817.
+
+Trial registration: ClinicalTrials.gov NCT01468246.
+
+Keywords: Dapagliflozin; Metformin; Sitagliptin; Sodium-glucose co-transporter-2 (SGLT2) inhibitor; Type 2 Diabetes Mellitus.
