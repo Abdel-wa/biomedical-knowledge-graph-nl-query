@@ -1,0 +1,17 @@
+Objectives: Assess the efficacy and safety profiles of different sodium-glucose cotransporter-2 inhibitors (SGLT2is) as an add-on to metformin in type 2 diabetes mellitus (T2DM) patients.
+
+Design: Bayesian network meta-analysis.
+
+Data sources: PubMed, Embase, Cochrane Library, Web of Science and ClinicalTrials.gov were searched before 18 December 2024.
+
+Eligibility criteria: Randomised controlled trials (RCTs) evaluating T2DM patients taking one of 12 SGLT2is as add-on therapy to metformin. Efficacy outcomes focused on glycated haemoglobin (HbA1c) reduction, fasting plasma glucose (FPG) reduction and weight loss (WL). Safety outcomes included adverse events (AEs), serious AEs (SAEs), hypoglycaemia, urinary tract infections (UTI) and genital infections (GI).
+
+Data extraction and synthesis: Two investigators independently extracted data. The quality of the included studies was assessed using the Cochrane Risk of Bias Tool (V.2.0) for RCTs.
+
+Results: 23 RCTs involving 9144 patients and 11 SGLT2is were included. Compared with placebo, most SGLT2is reduced HbA1c (mean difference (MD), -0.45~-0.80%), FPG (MD, -0.78~-2.02 mmol/L) and body weight (MD, -0.88~-2.67 kg). Only 10 mg of henagliflozin increased the incidence of AEs, and none of the included interventions increased the risks of SAEs or UTIs. 50 mg of empagliflozin exhibited higher risks of hypoglycaemia. Only 10 mg of empagliflozin increased the risk of GI. According to the surface under the cumulative ranking values, SGLT2is with optimal efficacy and safety were 15 mg of ertugliflozin in HbA1c reduction, 300 mg of canagliflozin in FPG reduction, WL and hypoglycaemia, 400 mg of sotagliflozin in total AEs, 10 mg of ertugliflozin and 150 mg of ipragliflozin in SAEs, 12.5 mg of ipragliflozin in UTI and 1 mg of ertugliflozin in GI.
+
+Conclusions: As add-on therapy, SGLT2is demonstrated favourable antidiabetic efficacy and acceptable safety. 300 mg of canagliflozin was the best option among the included interventions considering favourable glucose control and WL. Some novel SGLT2is (eg, henagliflozin) exhibited promising efficacy and safety profiles, but more research is needed to validate the findings.
+
+Keywords: Diabetes Mellitus, Type 2; Drug Therapy; Network Meta-Analysis.
+
+© Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ Group.
